@@ -14,6 +14,12 @@ If the number of answers are not the same as the supposed total answers (user in
 - The user being able to name the different options.
 
 ## Testing
+### Logic testing
+I tested the logic by:
+- Giving the program inputs and comparing the result to my own calculations.
+- Giving the program an invalid input to make sure it reacts as expected. Did this on all inputs. 
+
+### Linter
 
 ## Credits
-I got some help from Robin Koelewijn (Data Scientist) in order to propperly understand things i found confusing. He also helped me to get on the right track when i got stuck. The API part is copied from the "Love sandwiches" project, and I got some help from Robin.
+I got some help from Robin Koelewijn (Data Scientist) in order to propperly understand things I found confusing. He also helped me to get on the right track when I got stuck. The API part is copied from the "Love sandwiches" project, and I got some help from Robin.
