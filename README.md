@@ -1,18 +1,19 @@
 # study-result
-##User stories
+## User stories
 
-##Features
+## Features
 The program takes your numbers, and then it calculates how many prcent are positive, negative and avoided answers.  
 
-###Error handling
+### Error handling
 It can also handle inputs that would cause a ValueError (if you give the program something that cant be converted to an intages). If there is a ValueError, the program will ask you to input a number instead. It will continue doing that until you comply.
 
 If the number of answers are not the same as the supposed total answers (user input), the program will end. Before endig it the user will get be told that the nomber of answers are not the same as the inputed total answers. 
 
-###Potential features
+### Potential features
 - Telling the user which option got the most percent.
 - The user being able to name the different options.
 
-##Testing
+## Testing
 
-##Credits
+## Credits
+I got some help from Robin Koelewijn (Data Scientist) in order to propperly understand things i found confusing. He also helped me to get on the right track when i got stuck. The API part is copied from the "Love sandwiches" project, and I got some help from Robin.
