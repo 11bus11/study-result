@@ -1,5 +1,11 @@
-# study-result
+# Data analysis
+This is the third project for the Code Institute full stack software development course. The focur for this project is python. I chose to do some simple data analysis. 
+
 ## User stories
+I want the user to be able to:
+- Import data from a google sheets document.
+- Get the answer amount of each option in percent.
+- Export the result to a google sheets document.
 
 ## Features
 The program takes your numbers, and then it calculates how many prcent are positive, negative and avoided answers.  
